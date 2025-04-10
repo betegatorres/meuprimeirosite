@@ -1,7 +1,7 @@
 # meuprimeirosite
 Repositório destinado ao aprendizado básico de html e css
 # Primeiro Site
-https://github.com/betegatorres/meuprimeirosite/blob/main/index.html
+https://betegatorres.github.io/meuprimeirosite/
 # indexexterno.html
 https://github.com/betegatorres/meuprimeirosite/blob/main/indexexterno.html
 # indexinline.html
